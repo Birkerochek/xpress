@@ -111,6 +111,8 @@ nav {
     position: relative;
     
 }
+
+
 .customar{
     position: absolute;
     top: 68%;
@@ -130,6 +132,14 @@ nav {
     top: 6%;
     left: 75%;
     width: 22.78%;
+}
+@media (max-width: 1400px) {
+   .women{
+    width: 100%;
+   }
+   .shadow{
+    width: 100%;
+   }
 }
 
 .offer-title {
