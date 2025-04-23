@@ -107,7 +107,7 @@ nav {
     
 }
 .women{
-    z-index: 999;
+    z-index: 998;
     position: relative;
     
 }
@@ -118,6 +118,7 @@ nav {
     top: 68%;
     left: 8%;
     width:21.8%;
+    z-index: 999;
 }
 .shadow{
     position: absolute;
@@ -132,6 +133,7 @@ nav {
     top: 6%;
     left: 75%;
     width: 22.78%;
+    z-index: 999;
 }
 @media (max-width: 1400px) {
    .women{
